@@ -2,6 +2,10 @@
 
 Proyecto de ingeniería de datos y desarrollo de agentes de Inteligencia Artificial aplicado a un catálogo masivo de la Biblioteca Nacional de España (BNE).
 
+<p align="center">
+  <img src="gif.gif" alt="Demostración de la aplicación" width="750"/>
+</p>
+
 ## Funcionalidades
 - **Limpieza de datos:** Limpieza de más de 2,3 millones de registros bibliográficos en Pandas, tratamiento de nulos y estandarización de fechas históricas.
 - **Base de Datos Relacional:** Persistencia optimizada de los datos en SQLite (`biblioteca.db`).
